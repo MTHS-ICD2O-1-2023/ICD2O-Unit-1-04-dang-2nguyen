@@ -21,8 +21,8 @@
   color: beige;
  }
 
- ul li::before {
-  content: ✅;
+  ul li::before {
+  content: "✅";
  }
 
  table {
